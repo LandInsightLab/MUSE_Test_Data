@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20230815</CreaDate><CreaTime>13102800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20230815" Time="131028">ExtractByMask urban_cs_2005.tif mask.tif "E:\MUSE\Software verification\Data_synthetic\Urbanland_2005.tif"</Process></lineage></DataProperties></Esri></metadata>

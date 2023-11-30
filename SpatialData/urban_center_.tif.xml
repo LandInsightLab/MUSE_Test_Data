@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20230815</CreaDate><CreaTime>14405300</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20230815" Time="144053">RasterCalculator Con(IsNull("Feature_shp2"),0,1) "E:\MUSE\Software verification\Data_synthetic\urban_center_.tif"</Process></lineage></DataProperties></Esri></metadata>

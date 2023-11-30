@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20230815</CreaDate><CreaTime>13150200</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20230815" Time="131502">RasterCalculator ("Suitability_.tif"-0.501914)/(1-0.50914) "E:\MUSE\Software verification\Data_synthetic\Suitability_Norm.tif"</Process></lineage></DataProperties></Esri></metadata>
